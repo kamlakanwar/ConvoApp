@@ -17,7 +17,7 @@ const NoChatSelected = () => {
         </div>
 
         {/* Welcome Text */}
-        <h2 className="text-2xl font-bold">Welcome to SocialChat!</h2>
+        <h2 className="text-2xl font-bold">Welcome to ConvoApp!</h2>
         <p className="text-base-content/60">
           Select a user to start conversation
         </p>
